@@ -1,0 +1,9 @@
+build/
+*.sw[mnop]
+bin/
+.settings/
+.project/
+.classpath
+.gradle/
+delegate_service_account.*
+
